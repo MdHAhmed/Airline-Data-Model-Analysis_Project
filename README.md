@@ -1,5 +1,5 @@
 # Airline-Data-Model-Analysis_Project
-Project 1
+# MD H AHMED ,YORK COLLEGE
 
 For this Project I chose Southwest Airlines, Astoria Bank, Kayak travel reservations and Stony Brook Hospital as the 4 enterprises that I will be creating databases for. The purpose of a practical real world database will be created and used for Information Systems Management. The employees of each organization will need these databases to make sure the day to day operations of each enterprise are run smoothly and without incident. Databases need to be secure while also being a convenient way to accessing data and information that is needed. Each database created will contain entities, ER diagrams, attributes, relationships, domain values, primary and foreign keys for each enterprise. Enterprises like Astoria Bank and Kayak travel reservations will have three way relationships within their ER models. 
 
